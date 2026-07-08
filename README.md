@@ -150,11 +150,43 @@ UTAUT4-BPP-ABM-Simulator/
 | FC → UB | 0.276 | 0.000 | ✅ Accepted |
 | BI → UB | 0.412 | 0.000 | ✅ Accepted |
 
-## 📖 Documentation
+## 📸 Application Screenshots
 
-- 📘 [Full Manual Book (PDF)](docs/manual-book.pdf)
-- 📗 [ODD Protocol Specification](docs/odd-protocol.pdf)
-- 📕 [Model Description Paper](docs/model-description.pdf)
+### Main Interface
+The NetLogo IDE with UTAUT4-BPP-ABM Simulator loaded and ready to run:
+
+![Full IDE Setup](docs/screenshots/01_full_ide_setup.png)
+
+### World View — Mid Simulation (tick=60)
+Real-time visualization showing 59.2% of agents have adopted (green nodes):
+
+![World View](docs/screenshots/02_world_mid.png)
+
+### Real-Time Plots Panel
+Four dynamic plots tracking adoption dynamics across scenarios:
+
+![Plots Panel](docs/screenshots/03_plots.png)
+
+### Source Code — Code Tab
+NetLogo source code with syntax highlighting:
+
+![Code Tab](docs/screenshots/04_code_tab.png)
+
+### BehaviorSpace Experiment Setup
+Automated experiment configuration for 6 scenarios × 30 replications:
+
+![BehaviorSpace](docs/screenshots/05_behaviorspace.png)
+
+## 📖 Full Documentation
+
+- 📘 **[Manual Book (PDF)](docs/Manual%20Book%20UTAUT4.pdf)** — Complete 8-chapter technical documentation including:
+  - Directory structure
+  - System flowcharts
+  - Feature descriptions
+  - Step-by-step user guide
+  - Interface documentation
+  - Troubleshooting
+  - Full source code listing
 
 ## 🎓 Citation
 
