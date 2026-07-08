@@ -21,6 +21,34 @@ The simulator runs **240 heterogeneous agents** representing four organizational
 - ✅ BehaviorSpace compatible for batch experiments
 - ✅ Reproducible via configurable random seed
 
+## 📸 Application Screenshots
+
+### Main Interface
+The NetLogo IDE with UTAUT4-BPP-ABM Simulator loaded and ready to run:
+
+![Full IDE Setup](docs/screenshots/01_full_ide_setup.png)
+
+### World View — Mid Simulation (tick=60)
+Real-time visualization showing 59.2% agents have adopted (green nodes):
+
+![World View](docs/screenshots/02_world_mid.png)
+
+### Real-Time Plots Panel
+Four dynamic plots tracking adoption dynamics across scenarios:
+
+![Plots Panel](docs/screenshots/03_plots.png)
+
+### Source Code — Code Tab
+NetLogo source code with syntax highlighting:
+
+![Code Tab](docs/screenshots/04_code_tab.png)
+
+### BehaviorSpace Experiment Setup
+Automated experiment configuration for 6 scenarios × 30 replications:
+
+![BehaviorSpace](docs/screenshots/05_behaviorspace.png)
+
+---
 ## 🛠️ Requirements
 
 | Component | Minimum | Recommended |
